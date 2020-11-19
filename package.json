@@ -1,0 +1,24 @@
+{
+  "name": "Profesional_JavaScript_Platzi",
+  "version": "1.0.0",
+  "description": "Proyecto del Curso Profesional de JavaScript de la Escuela de JavaScript de Platzi.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mguerrero902/Profesional_JavaScript_Platzi.git"
+  },
+  "keywords": [
+    "platzi"
+  ],
+  "author": "Miguel Guerrero",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mguerrero902/Profesional_JavaScript_Platzi/issues"
+  },
+  "homepage": "https://github.com/mguerrero902/Profesional_JavaScript_Platzi#readme",
+  "scripts": {
+    "start": "live-server"
+  },
+  "devDependencies": {
+    "live-server": "^1.2.1"
+  }
+}
